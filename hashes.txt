@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Luz de tu mirada
+
+This log tracks the cryptographic history and versioning for the song **Luz de tu mirada** (luz-de-tu-mirada).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T20:02:54.815190 | `v1` | `d800ebc96fb44d63bbd76569c87228f59b396d83d285781bacf4877f42827652` | `968de61e72faa734c434399dc74a2c67a063fd8cd6e208b5baffabc5fb75bcdb` | `2026-06-22_luz-de-tu-mirada-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

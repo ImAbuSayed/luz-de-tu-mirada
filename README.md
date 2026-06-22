@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luz-de-tu-mirada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Luz de tu mirada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-tu-mirada/) |
+| **Get License** | [Music Rights & Licensing for Luz de tu mirada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-tu-mirada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d800ebc96fb44d63bbd76569c87228f59b396d83d285781bacf4877f42827652` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
