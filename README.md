@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luz-de-tu-mirada/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Luz de tu mirada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-tu-mirada/) |
+| **Get License** | [Commercial Licensing for Luz de tu mirada](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-tu-mirada/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, yo me pierdo en la luz de tu mirada
+> Esa vibra tuya me dejó el alma atrapada
+> Tú pisas fuerte, guapa, dueña de la noche
+> Nos vamos en el buga quemando los reproches
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
